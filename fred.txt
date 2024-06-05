@@ -1,1 +1,2 @@
 This file is fred file
+Secndline in fred File
